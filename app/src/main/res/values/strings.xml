@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+    <string name="this_is_description_text">This is description text</string>
+</resources>
